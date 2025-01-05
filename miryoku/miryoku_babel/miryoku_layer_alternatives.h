@@ -394,7 +394,7 @@ U_NA,              U_NA,              U_NA,              U_NA,              U_NA
 U_NP,              U_NP,              U_NA,              &kp RALT,          U_NP,              U_NP,              U_NP,              &kp ESC,           &kp LCTRL,         &kp SPACE
 
 #define MIRYOKU_ALTERNATIVES_GAME \
-&kp LALT,          &kp Q,             &kp F,             &kp E,             &kp N1,            U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
-&kp LSHFT,         &kp A,             &kp W,             &kp D,             &kp N2,            U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
-&kp TAB,           &tog U_GAME,       &kp S,             &kp R,             &kp N3,            U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              \
-U_NP,              U_NP,              &kp ESC,           &kp LCTRL,         &kp SPACE,         U_NP,              U_NA,              U_NA,              U_NP,              U_NP
+&kp LCTRL,         &kp Q,             &kp F,             &kp E,             &kp N1,            U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
+&kp SPACE,         &kp A,             &kp W,             &kp D,             &kp N2,            U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
+&kp LSHFT,         &tog U_GAME,       &kp S,             &kp R,             &kp N3,            U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              \
+U_NP,              U_NP,              &kp ESC,           &kp TAB,           &kp LALT,          U_NP,              U_NA,              U_NA,              U_NP,              U_NP
